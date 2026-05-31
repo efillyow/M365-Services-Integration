@@ -119,7 +119,19 @@ Shared mailboxes are commonly used in enterprise environments to:
 
 - Allow multiple users to access a common mailbox  
 - Centralize communication for teams (e.g., IT support)  
-- Enforce role-based access control  
+- Enforce role-based access control
+
+
+### 🔎 Additional Validation
+
+Verified that the shared mailbox was accessible from the user account after access was granted.
+
+![](MS365-Services-Integration/IT-Support-Mailbox-Opened.png)  
+
+This confirms:
+- Mailbox permissions were successfully applied  
+- Shared resource can be accessed by assigned users  
+- Organizational communication workflows function correctly
 
 ---
 
