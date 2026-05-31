@@ -1,4 +1,4 @@
-## 💼 Microsoft 365 Service Integration Lab (Exchange, Teams, SharePoint)
+## 💼 Microsoft 365 Service Integration (Exchange, Teams, SharePoint)
 
 ---
 
@@ -25,10 +25,22 @@ The goal was to provision a user and validate seamless access across core busine
 
 ### 🔎 How it works
 
-1. A user is created and assigned a Microsoft 365 license  
-2. Cloud services are automatically provisioned  
-3. Identity and permissions control access  
-4. User gains access to email, collaboration, and file storage  
+- A user is created in Microsoft Entra ID  
+- A Microsoft 365 license is assigned  
+- Services are automatically provisioned (Exchange, Teams, SharePoint)  
+- Permissions control access across each platform  
+- User accesses services using a single identity  
+
+
+
+### 🔎 Why this architecture matters
+
+This reflects how organizations:
+
+- Provision users across multiple services from a single identity  
+- Use licensing to control access at scale  
+- Integrate communication, collaboration, and storage platforms  
+- Deliver seamless user experience across Microsoft 365  
 
 ---
 
