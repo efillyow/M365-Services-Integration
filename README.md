@@ -126,8 +126,9 @@ Shared mailboxes are commonly used in enterprise environments to:
 
 Verified that the shared mailbox was accessible from the user account after access was granted.
 
-![](MS365-Services-Integration/IT-Support-Mailbox-Opened.png)  
+![](MS365-Services-Integration/IT-Support-Mailbox-Opened.png) 
 
+![](MS365-Services-Integration/IT-Support-Mailbox-Added.png)
 This confirms:
 - Mailbox permissions were successfully applied  
 - Shared resource can be accessed by assigned users  
